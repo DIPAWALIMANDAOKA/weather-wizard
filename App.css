@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522weather%2Bbackground%2522&psig=AOvVaw0kNZ3zDzwrntPkZH9HLqVa&ust=1718877951917000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDiz8W154YDFQAAAAAdAAAAABAE');
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #61dafb;
+  color: #282c34;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #fff;
+  margin: 10px 50px 20px 50px;
+  padding: 10px;
+  border-radius: 5px;
+  color: #282c34;
+  /* margin-left: 50px;
+  margin-right: 50px; */
+}
+ p{
+  font-weight: bold;
+ }
